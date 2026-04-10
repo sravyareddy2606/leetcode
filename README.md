@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/sravyareddy2606/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0279-perfect-squares](https://github.com/sravyareddy2606/leetcode/tree/master/0279-perfect-squares) |
 ## Binary Tree
 |  |
 | ------- |
@@ -41,9 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/sravyareddy2606/leetcode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/sravyareddy2606/leetcode/tree/master/0326-power-of-three) |
 ## Recursion
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/sravyareddy2606/leetcode/tree/master/0326-power-of-three) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/sravyareddy2606/leetcode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
