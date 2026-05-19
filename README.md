@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/sravyareddy2606/leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/sravyareddy2606/leetcode/tree/master/0290-word-pattern) |
+| [0344-reverse-string](https://github.com/sravyareddy2606/leetcode/tree/master/0344-reverse-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/sravyareddy2606/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Array
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/sravyareddy2606/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sravyareddy2606/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
