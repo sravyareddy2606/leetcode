@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sravyareddy2606/leetcode/tree/master/0198-house-robber) |
 | [0228-summary-ranges](https://github.com/sravyareddy2606/leetcode/tree/master/0228-summary-ranges) |
 | [0349-intersection-of-two-arrays](https://github.com/sravyareddy2606/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0456-132-pattern](https://github.com/sravyareddy2606/leetcode/tree/master/0456-132-pattern) |
 | [0480-sliding-window-median](https://github.com/sravyareddy2606/leetcode/tree/master/0480-sliding-window-median) |
 ## Bit Manipulation
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/sravyareddy2606/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0456-132-pattern](https://github.com/sravyareddy2606/leetcode/tree/master/0456-132-pattern) |
 ## Sorting
 |  |
 | ------- |
@@ -98,4 +100,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/sravyareddy2606/leetcode/tree/master/0480-sliding-window-median) |
+## Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/sravyareddy2606/leetcode/tree/master/0456-132-pattern) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/sravyareddy2606/leetcode/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/sravyareddy2606/leetcode/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
