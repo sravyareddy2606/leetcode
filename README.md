@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sravyareddy2606/leetcode/tree/master/0136-single-number) |
+| [0397-integer-replacement](https://github.com/sravyareddy2606/leetcode/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/sravyareddy2606/leetcode/tree/master/0476-number-complement) |
 ## Hash Table
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sravyareddy2606/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sravyareddy2606/leetcode/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/sravyareddy2606/leetcode/tree/master/0279-perfect-squares) |
+| [0397-integer-replacement](https://github.com/sravyareddy2606/leetcode/tree/master/0397-integer-replacement) |
 ## Two Pointers
 |  |
 | ------- |
@@ -123,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sravyareddy2606/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/sravyareddy2606/leetcode/tree/master/0397-integer-replacement) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/sravyareddy2606/leetcode/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
