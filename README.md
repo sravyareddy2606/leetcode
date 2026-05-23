@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sravyareddy2606/leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/sravyareddy2606/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/sravyareddy2606/leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/sravyareddy2606/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0482-license-key-formatting](https://github.com/sravyareddy2606/leetcode/tree/master/0482-license-key-formatting) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/sravyareddy2606/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Array
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sravyareddy2606/leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/sravyareddy2606/leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/sravyareddy2606/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/sravyareddy2606/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0480-sliding-window-median](https://github.com/sravyareddy2606/leetcode/tree/master/0480-sliding-window-median) |
 ## Tree
 |  |
@@ -113,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/sravyareddy2606/leetcode/tree/master/0456-132-pattern) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sravyareddy2606/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sravyareddy2606/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
