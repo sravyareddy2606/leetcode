@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/sravyareddy2606/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0480-sliding-window-median](https://github.com/sravyareddy2606/leetcode/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/sravyareddy2606/leetcode/tree/master/0496-next-greater-element-i) |
+| [0970-powerful-integers](https://github.com/sravyareddy2606/leetcode/tree/master/0970-powerful-integers) |
 ## Tree
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/sravyareddy2606/leetcode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/sravyareddy2606/leetcode/tree/master/0326-power-of-three) |
+| [0970-powerful-integers](https://github.com/sravyareddy2606/leetcode/tree/master/0970-powerful-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/sravyareddy2606/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Enumeration
+|  |
+| ------- |
+| [0970-powerful-integers](https://github.com/sravyareddy2606/leetcode/tree/master/0970-powerful-integers) |
 <!---LeetCode Topics End-->
