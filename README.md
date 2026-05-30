@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sravyareddy2606/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sravyareddy2606/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0482-license-key-formatting](https://github.com/sravyareddy2606/leetcode/tree/master/0482-license-key-formatting) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/sravyareddy2606/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/sravyareddy2606/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Array
 |  |
