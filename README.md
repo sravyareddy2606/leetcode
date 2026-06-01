@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/sravyareddy2606/leetcode/tree/master/0335-self-crossing) |
 | [0349-intersection-of-two-arrays](https://github.com/sravyareddy2606/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sravyareddy2606/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0396-rotate-function](https://github.com/sravyareddy2606/leetcode/tree/master/0396-rotate-function) |
 | [0455-assign-cookies](https://github.com/sravyareddy2606/leetcode/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/sravyareddy2606/leetcode/tree/master/0456-132-pattern) |
 | [0480-sliding-window-median](https://github.com/sravyareddy2606/leetcode/tree/master/0480-sliding-window-median) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/sravyareddy2606/leetcode/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/sravyareddy2606/leetcode/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/sravyareddy2606/leetcode/tree/master/0342-power-of-four) |
+| [0396-rotate-function](https://github.com/sravyareddy2606/leetcode/tree/master/0396-rotate-function) |
 | [0970-powerful-integers](https://github.com/sravyareddy2606/leetcode/tree/master/0970-powerful-integers) |
 ## Recursion
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sravyareddy2606/leetcode/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sravyareddy2606/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/sravyareddy2606/leetcode/tree/master/0279-perfect-squares) |
+| [0396-rotate-function](https://github.com/sravyareddy2606/leetcode/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/sravyareddy2606/leetcode/tree/master/0397-integer-replacement) |
 | [0546-remove-boxes](https://github.com/sravyareddy2606/leetcode/tree/master/0546-remove-boxes) |
 ## Two Pointers
