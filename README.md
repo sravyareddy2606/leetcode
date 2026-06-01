@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sravyareddy2606/leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sravyareddy2606/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/sravyareddy2606/leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/sravyareddy2606/leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/sravyareddy2606/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/sravyareddy2606/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sravyareddy2606/leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sravyareddy2606/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/sravyareddy2606/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sravyareddy2606/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/sravyareddy2606/leetcode/tree/master/0455-assign-cookies) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sravyareddy2606/leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sravyareddy2606/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Binary Search Tree
 |  |
 | ------- |
