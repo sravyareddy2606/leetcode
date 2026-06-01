@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sravyareddy2606/leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/sravyareddy2606/leetcode/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sravyareddy2606/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0282-expression-add-operators](https://github.com/sravyareddy2606/leetcode/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/sravyareddy2606/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/sravyareddy2606/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sravyareddy2606/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/sravyareddy2606/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/sravyareddy2606/leetcode/tree/master/0279-perfect-squares) |
+| [0282-expression-add-operators](https://github.com/sravyareddy2606/leetcode/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/sravyareddy2606/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sravyareddy2606/leetcode/tree/master/0342-power-of-four) |
 | [0970-powerful-integers](https://github.com/sravyareddy2606/leetcode/tree/master/0970-powerful-integers) |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0970-powerful-integers](https://github.com/sravyareddy2606/leetcode/tree/master/0970-powerful-integers) |
+## Backtracking
+|  |
+| ------- |
+| [0282-expression-add-operators](https://github.com/sravyareddy2606/leetcode/tree/master/0282-expression-add-operators) |
 <!---LeetCode Topics End-->
