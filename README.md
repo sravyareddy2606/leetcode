@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sravyareddy2606/leetcode/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sravyareddy2606/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/sravyareddy2606/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/sravyareddy2606/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sravyareddy2606/leetcode/tree/master/0137-single-number-ii) |
 | [0198-house-robber](https://github.com/sravyareddy2606/leetcode/tree/master/0198-house-robber) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/sravyareddy2606/leetcode/tree/master/0135-candy) |
 | [0397-integer-replacement](https://github.com/sravyareddy2606/leetcode/tree/master/0397-integer-replacement) |
 | [0455-assign-cookies](https://github.com/sravyareddy2606/leetcode/tree/master/0455-assign-cookies) |
 ## Memoization
