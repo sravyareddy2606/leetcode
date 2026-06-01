@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sravyareddy2606/leetcode/tree/master/0198-house-robber) |
 | [0228-summary-ranges](https://github.com/sravyareddy2606/leetcode/tree/master/0228-summary-ranges) |
 | [0327-count-of-range-sum](https://github.com/sravyareddy2606/leetcode/tree/master/0327-count-of-range-sum) |
+| [0335-self-crossing](https://github.com/sravyareddy2606/leetcode/tree/master/0335-self-crossing) |
 | [0349-intersection-of-two-arrays](https://github.com/sravyareddy2606/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/sravyareddy2606/leetcode/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/sravyareddy2606/leetcode/tree/master/0456-132-pattern) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/sravyareddy2606/leetcode/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/sravyareddy2606/leetcode/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/sravyareddy2606/leetcode/tree/master/0326-power-of-three) |
+| [0335-self-crossing](https://github.com/sravyareddy2606/leetcode/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/sravyareddy2606/leetcode/tree/master/0342-power-of-four) |
 | [0970-powerful-integers](https://github.com/sravyareddy2606/leetcode/tree/master/0970-powerful-integers) |
 ## Recursion
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/sravyareddy2606/leetcode/tree/master/0327-count-of-range-sum) |
+## Geometry
+|  |
+| ------- |
+| [0335-self-crossing](https://github.com/sravyareddy2606/leetcode/tree/master/0335-self-crossing) |
 <!---LeetCode Topics End-->
