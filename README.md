@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sravyareddy2606/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sravyareddy2606/leetcode/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sravyareddy2606/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/sravyareddy2606/leetcode/tree/master/0135-candy) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sravyareddy2606/leetcode/tree/master/0048-rotate-image) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sravyareddy2606/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/sravyareddy2606/leetcode/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/sravyareddy2606/leetcode/tree/master/0282-expression-add-operators) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sravyareddy2606/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sravyareddy2606/leetcode/tree/master/0054-spiral-matrix) |
 | [0174-dungeon-game](https://github.com/sravyareddy2606/leetcode/tree/master/0174-dungeon-game) |
 | [0289-game-of-life](https://github.com/sravyareddy2606/leetcode/tree/master/0289-game-of-life) |
