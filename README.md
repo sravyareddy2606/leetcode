@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/sravyareddy2606/leetcode/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/sravyareddy2606/leetcode/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/sravyareddy2606/leetcode/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/sravyareddy2606/leetcode/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/sravyareddy2606/leetcode/tree/master/0396-rotate-function) |
 | [0970-powerful-integers](https://github.com/sravyareddy2606/leetcode/tree/master/0970-powerful-integers) |
 ## Recursion
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sravyareddy2606/leetcode/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sravyareddy2606/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/sravyareddy2606/leetcode/tree/master/0279-perfect-squares) |
+| [0343-integer-break](https://github.com/sravyareddy2606/leetcode/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/sravyareddy2606/leetcode/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/sravyareddy2606/leetcode/tree/master/0397-integer-replacement) |
 | [0546-remove-boxes](https://github.com/sravyareddy2606/leetcode/tree/master/0546-remove-boxes) |
