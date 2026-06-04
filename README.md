@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sravyareddy2606/leetcode/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/sravyareddy2606/leetcode/tree/master/0456-132-pattern) |
 | [0480-sliding-window-median](https://github.com/sravyareddy2606/leetcode/tree/master/0480-sliding-window-median) |
+| [0495-teemo-attacking](https://github.com/sravyareddy2606/leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/sravyareddy2606/leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sravyareddy2606/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0546-remove-boxes](https://github.com/sravyareddy2606/leetcode/tree/master/0546-remove-boxes) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sravyareddy2606/leetcode/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/sravyareddy2606/leetcode/tree/master/0289-game-of-life) |
+| [0495-teemo-attacking](https://github.com/sravyareddy2606/leetcode/tree/master/0495-teemo-attacking) |
 ## Sliding Window
 |  |
 | ------- |
