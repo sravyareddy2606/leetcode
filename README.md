@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sravyareddy2606/leetcode/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/sravyareddy2606/leetcode/tree/master/0456-132-pattern) |
 | [0480-sliding-window-median](https://github.com/sravyareddy2606/leetcode/tree/master/0480-sliding-window-median) |
+| [0494-target-sum](https://github.com/sravyareddy2606/leetcode/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/sravyareddy2606/leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/sravyareddy2606/leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sravyareddy2606/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/sravyareddy2606/leetcode/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/sravyareddy2606/leetcode/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/sravyareddy2606/leetcode/tree/master/0397-integer-replacement) |
+| [0494-target-sum](https://github.com/sravyareddy2606/leetcode/tree/master/0494-target-sum) |
 | [0546-remove-boxes](https://github.com/sravyareddy2606/leetcode/tree/master/0546-remove-boxes) |
 ## Two Pointers
 |  |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/sravyareddy2606/leetcode/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/sravyareddy2606/leetcode/tree/master/0282-expression-add-operators) |
+| [0494-target-sum](https://github.com/sravyareddy2606/leetcode/tree/master/0494-target-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
