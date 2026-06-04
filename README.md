@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0517-super-washing-machines](https://github.com/sravyareddy2606/leetcode/tree/master/0517-super-washing-machines) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sravyareddy2606/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0546-remove-boxes](https://github.com/sravyareddy2606/leetcode/tree/master/0546-remove-boxes) |
+| [0598-range-addition-ii](https://github.com/sravyareddy2606/leetcode/tree/master/0598-range-addition-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/sravyareddy2606/leetcode/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/sravyareddy2606/leetcode/tree/master/0396-rotate-function) |
 | [0507-perfect-number](https://github.com/sravyareddy2606/leetcode/tree/master/0507-perfect-number) |
+| [0598-range-addition-ii](https://github.com/sravyareddy2606/leetcode/tree/master/0598-range-addition-ii) |
 | [0970-powerful-integers](https://github.com/sravyareddy2606/leetcode/tree/master/0970-powerful-integers) |
 ## Recursion
 |  |
