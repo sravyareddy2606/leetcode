@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/sravyareddy2606/leetcode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/sravyareddy2606/leetcode/tree/master/0198-house-robber) |
 | [0228-summary-ranges](https://github.com/sravyareddy2606/leetcode/tree/master/0228-summary-ranges) |
+| [0274-h-index](https://github.com/sravyareddy2606/leetcode/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/sravyareddy2606/leetcode/tree/master/0289-game-of-life) |
 | [0327-count-of-range-sum](https://github.com/sravyareddy2606/leetcode/tree/master/0327-count-of-range-sum) |
 | [0335-self-crossing](https://github.com/sravyareddy2606/leetcode/tree/master/0335-self-crossing) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0147-insertion-sort-list](https://github.com/sravyareddy2606/leetcode/tree/master/0147-insertion-sort-list) |
 | [0164-maximum-gap](https://github.com/sravyareddy2606/leetcode/tree/master/0164-maximum-gap) |
+| [0274-h-index](https://github.com/sravyareddy2606/leetcode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/sravyareddy2606/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sravyareddy2606/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sravyareddy2606/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -273,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sravyareddy2606/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/sravyareddy2606/leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
