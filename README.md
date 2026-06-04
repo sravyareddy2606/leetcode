@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sravyareddy2606/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sravyareddy2606/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/sravyareddy2606/leetcode/tree/master/0396-rotate-function) |
+| [0436-find-right-interval](https://github.com/sravyareddy2606/leetcode/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/sravyareddy2606/leetcode/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/sravyareddy2606/leetcode/tree/master/0456-132-pattern) |
 | [0480-sliding-window-median](https://github.com/sravyareddy2606/leetcode/tree/master/0480-sliding-window-median) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/sravyareddy2606/leetcode/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/sravyareddy2606/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sravyareddy2606/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0436-find-right-interval](https://github.com/sravyareddy2606/leetcode/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/sravyareddy2606/leetcode/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sravyareddy2606/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Sorting
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sravyareddy2606/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sravyareddy2606/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sravyareddy2606/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0436-find-right-interval](https://github.com/sravyareddy2606/leetcode/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/sravyareddy2606/leetcode/tree/master/0455-assign-cookies) |
 ## Matrix
 |  |
