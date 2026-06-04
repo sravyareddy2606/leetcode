@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/sravyareddy2606/leetcode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/sravyareddy2606/leetcode/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/sravyareddy2606/leetcode/tree/master/0396-rotate-function) |
+| [0507-perfect-number](https://github.com/sravyareddy2606/leetcode/tree/master/0507-perfect-number) |
 | [0970-powerful-integers](https://github.com/sravyareddy2606/leetcode/tree/master/0970-powerful-integers) |
 ## Recursion
 |  |
