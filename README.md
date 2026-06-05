@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sravyareddy2606/leetcode/tree/master/0198-house-robber) |
 | [0228-summary-ranges](https://github.com/sravyareddy2606/leetcode/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/sravyareddy2606/leetcode/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/sravyareddy2606/leetcode/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/sravyareddy2606/leetcode/tree/master/0289-game-of-life) |
 | [0327-count-of-range-sum](https://github.com/sravyareddy2606/leetcode/tree/master/0327-count-of-range-sum) |
 | [0335-self-crossing](https://github.com/sravyareddy2606/leetcode/tree/master/0335-self-crossing) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sravyareddy2606/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sravyareddy2606/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/sravyareddy2606/leetcode/tree/master/0165-compare-version-numbers) |
+| [0283-move-zeroes](https://github.com/sravyareddy2606/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sravyareddy2606/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sravyareddy2606/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sravyareddy2606/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
