@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/sravyareddy2606/leetcode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/sravyareddy2606/leetcode/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/sravyareddy2606/leetcode/tree/master/0396-rotate-function) |
+| [0400-nth-digit](https://github.com/sravyareddy2606/leetcode/tree/master/0400-nth-digit) |
 | [0507-perfect-number](https://github.com/sravyareddy2606/leetcode/tree/master/0507-perfect-number) |
 | [0598-range-addition-ii](https://github.com/sravyareddy2606/leetcode/tree/master/0598-range-addition-ii) |
 | [0970-powerful-integers](https://github.com/sravyareddy2606/leetcode/tree/master/0970-powerful-integers) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/sravyareddy2606/leetcode/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/sravyareddy2606/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sravyareddy2606/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0400-nth-digit](https://github.com/sravyareddy2606/leetcode/tree/master/0400-nth-digit) |
 | [0436-find-right-interval](https://github.com/sravyareddy2606/leetcode/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/sravyareddy2606/leetcode/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sravyareddy2606/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
